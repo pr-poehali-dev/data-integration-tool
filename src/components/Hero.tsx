@@ -34,7 +34,7 @@ export default function Hero() {
           Персональные задания по русскому языку от твоего учителя. Войди в личный кабинет и начни подготовку уже сегодня.
         </p>
         <a
-          href="#login"
+          href="/login"
           className="inline-block bg-white text-black px-8 py-3 uppercase text-sm tracking-wide font-semibold hover:bg-neutral-200 transition-colors duration-300"
         >
           Войти в личный кабинет

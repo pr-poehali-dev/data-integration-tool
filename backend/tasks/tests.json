@@ -1,0 +1,11 @@
+{
+  "tests": [
+    {
+      "name": "Get tasks requires param",
+      "method": "GET",
+      "path": "/",
+      "expectedStatus": 400,
+      "bodyMatcher": "partial"
+    }
+  ]
+}

@@ -15,7 +15,7 @@ export default function Header({ className }: HeaderProps) {
             О курсе
           </a>
           <a
-            href="#login"
+            href="/login"
             className="text-white bg-white/20 hover:bg-white/30 transition-colors duration-300 uppercase text-sm px-4 py-2 backdrop-blur-sm"
           >
             Войти
